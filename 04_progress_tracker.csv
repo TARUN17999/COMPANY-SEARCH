@@ -1,49 +1,49 @@
 company_name,company_number,_score,incorporation_date,registered_office_address,check_status,website_url,career_page_url,has_openings,matching_roles_found,last_checked_date,shortlist,notes
-CAMBRIDGE ASSOCIATES LIMITED,06135829,15.0,05-03-2007,62 Buckingham Gate London England SW1E 6AJ,pending,,,,,,,
-TWO SIGMA INTERNATIONAL LIMITED,06486331,15.0,28-01-2008,Level 5 7 Devonshire Square London United Kingdom EC2M 4YH,pending,,,,,,,
-SAUNDERSON HOUSE LIMITED,00940473,15.0,14-10-1968,30 Gresham Street London England EC2V 7QN,pending,,,,,,,
-SAINTEMP INVESTMENTS LIMITED,05961819,15.0,10-10-2006,C/O Citygate Accountants Unit 1.01 East London Business Centre London England E1 1EJ,pending,,,,,,,
-TRADERISKS LIMITED,04042506,15.0,28-07-2000,5 New Street Square London England EC4A 3TW,pending,,,,,,,
-HR BANK LIMITED,04707000,15.0,21-03-2003,7 Bell Yard London England WC2A 2JR,pending,,,,,,,
-COZETTE LTD,06969733,15.0,22-07-2009,4 Wimbledon Close London England SW20 8HW,pending,,,,,,,
+CAMBRIDGE ASSOCIATES LIMITED,06135829,15.0,05-03-2007,62 Buckingham Gate London England SW1E 6AJ,checked,https://www.cambridgeassociates.com,https://www.cambridgeassociates.com/careers/,yes,Investment Director - Real Assets; Managing Director - Infrastructure Investment,2026-08-17,yes,"Large global investment consultancy; London roles listed skew senior/investment, not entry analyst"
+TWO SIGMA INTERNATIONAL LIMITED,06486331,15.0,28-01-2008,Level 5 7 Devonshire Square London United Kingdom EC2M 4YH,checked,https://www.twosigma.com,https://careers.twosigma.com/careers/OpenRoles,yes,Quantitative Researcher (Investment/Client Solutions); undergraduate internship program,2026-08-17,yes,Hedge fund; London has open investment/engineering roles plus internship pipeline
+SAUNDERSON HOUSE LIMITED,00940473,15.0,14-10-1968,30 Gresham Street London England EC2V 7QN,checked,https://saundersonhouse.co.uk,https://saundersonhouse.co.uk/careers/,no,,2026-08-17,,"Wealth manager, part of Rathbones; recruitment handled by parent, no specific open roles found"
+SAINTEMP INVESTMENTS LIMITED,05961819,15.0,10-10-2006,C/O Citygate Accountants Unit 1.01 East London Business Centre London England E1 1EJ,checked,,,unclear,,2026-08-17,,no website found; tiny private investment company (3 employees)
+TRADERISKS LIMITED,04042506,15.0,28-07-2000,5 New Street Square London England EC4A 3TW,checked,http://www.traderisks.com,http://www.traderisks.com/about-us/career,no,,2026-08-17,,"Debt advisory firm; careers page only has generic recruiting statement, no listed roles"
+HR BANK LIMITED,04707000,15.0,21-03-2003,7 Bell Yard London England WC2A 2JR,checked,https://hrbankuk.com,,no,,2026-08-17,,Private bank for professional clients only; no careers page found
+COZETTE LTD,06969733,15.0,22-07-2009,4 Wimbledon Close London England SW20 8HW,checked,,,unclear,,2026-08-17,,no website found
 GOLDCAPITAL INVESTMENTS LTD.,07107266,15.0,17-12-2009,27 Scott Gardens London England TW5 9JU,pending,,,,,,,
 PHILIP J MILTON & COMPANY PLC,03233275,15.0,02-08-1996,Choweree House Barnstaple England EX31 1RP,pending,,,,,,,
-MOMOESSA CAPITAL MANAGEMENT LIMITED,06819957,15.0,16-02-2009,Kemp House 160 City Road London United Kingdom EC1V 2NX,pending,,,,,,,
-ESS GROUP INTERNATIONAL LTD,07710145,14.5,19-07-2011,3rd Floor 207 Regent Street London W1B 3HH,pending,,,,,,,
-RESI CAPITAL MANAGEMENT LIMITED,07588964,14.5,04-04-2011,5 New Street Square London England EC4A 3TW,pending,,,,,,,
-AGENZIA LIGURIA RUSSIA LTD,07808773,14.5,13-10-2011,167-169 Great Portland Street London W1W 5PF,pending,,,,,,,
-MORNINGSTAR WEALTH ADMINISTRATION LIMITED,06016828,14.0,04-12-2006,1 Oliver's Yard London England EC1Y 1HQ,pending,,,,,,,
-B KING ASSOCIATES LTD,07477764,14.0,23-12-2010,Flat 3 North Lodge London N22 7UB,pending,,,,,,,
-MASTER FINCAPITAL LTD,07431816,14.0,08-11-2010,C/O Rpgcc London England EC3V 0BT,pending,,,,,,,
-PIERS COURT CAPITAL LIMITED,07454416,14.0,29-11-2010,65 Cadogan Square London SW1X 0DY,pending,,,,,,,
+MOMOESSA CAPITAL MANAGEMENT LIMITED,06819957,15.0,16-02-2009,Kemp House 160 City Road London United Kingdom EC1V 2NX,checked,https://mecm.co.uk/,,no,,2026-08-17,,small Islamic finance investment/consulting firm; no careers page found
+ESS GROUP INTERNATIONAL LTD,07710145,14.5,19-07-2011,3rd Floor 207 Regent Street London W1B 3HH,checked,,,unclear,,2026-08-17,,"no website found; name too generic, micro business (<10 employees)"
+RESI CAPITAL MANAGEMENT LIMITED,07588964,14.5,04-04-2011,5 New Street Square London England EC4A 3TW,checked,https://www.resi-reit.com,,no,,2026-08-17,,"manager of ReSI REIT, now in managed wind-down (since 2024) under Gresham House; no careers page"
+AGENZIA LIGURIA RUSSIA LTD,07808773,14.5,13-10-2011,167-169 Great Portland Street London W1W 5PF,checked,,,unclear,,2026-08-17,,no website found; appears to be UK shell for Italy-based entity
+MORNINGSTAR WEALTH ADMINISTRATION LIMITED,06016828,14.0,04-12-2006,1 Oliver's Yard London England EC1Y 1HQ,checked,https://www.morningstarwealthplatform.com,https://www.morningstar.com/careers,yes,Graduate Investment Analyst; Investment Analyst; Funds Reporter; Operations Analyst,2026-08-17,yes,regulated UK subsidiary of Morningstar Inc; parent careers site lists London analyst/ops/graduate roles
+B KING ASSOCIATES LTD,07477764,14.0,23-12-2010,Flat 3 North Lodge London N22 7UB,checked,,,unclear,,2026-08-17,,no website found; likely small/dormant shell company
+MASTER FINCAPITAL LTD,07431816,14.0,08-11-2010,C/O Rpgcc London England EC3V 0BT,checked,,,no,,2026-08-17,,"FCA cancelled firm's permissions in 2021, no regulated activity since 2019; no website"
+PIERS COURT CAPITAL LIMITED,07454416,14.0,29-11-2010,65 Cadogan Square London SW1X 0DY,checked,,,unclear,,2026-08-17,,no dedicated website found; small private capital/venture firm
 PHOENIX UNIVERSAL  SOLUTIONS LIMITED,07116827,14.0,05-01-2010,10 Offord Grove Offord Grove Watford England WD25 7NE,pending,,,,,,,
-FLUID7 LIMITED,05826599,14.0,23-05-2006,C11 Generator Hall Electric Wharf Coventry England CV1 4JL,pending,,,,,,,
-MARSHALL STERLING ASSET MANAGEMENT LIMITED,06773042,14.0,15-12-2008,27 Old Gloucester Street London England WC1N 3AX,pending,,,,,,,
-MAHER BROWNSWORD LIMITED,04460050,14.0,13-06-2002,10 Guild Street Stratford-Upon-Avon CV37 6RE,pending,,,,,,,
-CITY TRAINING LIMITED,03734888,14.0,17-03-1999,19 The Ridgeway null N3 2PG,pending,,,,,,,
-STOCKDALE STREET LIMITED,04481271,14.0,09-07-2002,1 Charterhouse Street London EC1N 6SA,pending,,,,,,,
-AXM VENTURE CAPITAL (HOLDINGS) LIMITED,05355331,14.0,07-02-2005,57g Randolph Avenue London W9 1BQ,pending,,,,,,,
-PROMARKET INTERNATIONAL PLC,08251885,14.0,12-10-2012,"Unit 3,  Office A,  1st Floor London England EC3R 8EE",pending,,,,,,,
-SAGE & HERMES LIMITED,02958215,14.0,12-08-1994,44 Worthington Road Surrey KT6 7RX,pending,,,,,,,
-BOSTON INVESTMENT MANAGEMENT GROUP LIMITED,01007782,14.0,14-04-1971,Wildwoods Beaconsfield HP9 2NR,pending,,,,,,,
-QUANTUM ENGINEERING CONSULTANCY LTD,07172848,14.0,01-03-2010,33a Norfolk Street Sunderland SR1 1EE,pending,,,,,,,
-DUKE GODLEY FINANCIAL PLANNING LIMITED,02268794,14.0,17-06-1988,Congress House Harrow HA1 2EN,pending,,,,,,,
-CAPITAL OIL LIMITED,05637488,14.0,28-11-2005,Office 1 Hatherton Court Walsall England WS4 2LA,pending,,,,,,,
-SKYBOUND FINANCIAL PLANNING LIMITED,03116941,14.0,23-10-1995,Solent Business Park 4500 Parkway Fareham England PO15 7AZ,pending,,,,,,,
-CONSULTIST LIMITED,04701671,14.0,18-03-2003,11 Middle Way Oxford England OX2 7LH,pending,,,,,,,
-PLATINUM PURE CAPITAL LIMITED,07028208,14.0,23-09-2009,236 Creighton Avenue London England N2 9BD,pending,,,,,,,
-Z-VISIONS INNOVATIONS & PROJECT DEVELOPMENT LTD,08090382,14.0,31-05-2012,71-75 Shelton Street London United Kingdom WC2H 9JQ,pending,,,,,,,
-UNITED INTERCONSULTING LIMITED,08029256,14.0,13-04-2012,85 Great Portland Street London England W1W 7LT,pending,,,,,,,
+FLUID7 LIMITED,05826599,14.0,23-05-2006,C11 Generator Hall Electric Wharf Coventry England CV1 4JL,checked,https://fluid7.co.uk/,https://fluid7.co.uk/careers,no,,2026-08-17,,"web dev agency not fund manager; only PHP developer role open, no finance roles"
+MARSHALL STERLING ASSET MANAGEMENT LIMITED,06773042,14.0,15-12-2008,27 Old Gloucester Street London England WC1N 3AX,checked,https://marshallsterling.co.uk/,https://marshallsterling.co.uk/career-opportunities/,yes,Portfolio Manager; Fund Manager; Trader; Corporate Finance Banker,2026-08-17,yes,FCA-regulated career opportunities page lists investment/portfolio roles
+MAHER BROWNSWORD LIMITED,04460050,14.0,13-06-2002,10 Guild Street Stratford-Upon-Avon CV37 6RE,checked,https://www.maherbrownsword.co.uk/,,no,,2026-08-17,,small financial advisers firm; website found but no careers page
+CITY TRAINING LIMITED,03734888,14.0,17-03-1999,19 The Ridgeway null N3 2PG,checked,,,unclear,,2026-08-17,,no website found; generic name conflicts with similarly named training firms
+STOCKDALE STREET LIMITED,04481271,14.0,09-07-2002,1 Charterhouse Street London EC1N 6SA,checked,http://www.stockdalestreet.co.uk/,,unclear,,2026-08-17,,"real investment manager (family office), website found but no careers page located"
+AXM VENTURE CAPITAL (HOLDINGS) LIMITED,05355331,14.0,07-02-2005,57g Randolph Avenue London W9 1BQ,checked,http://www.axmvc.co.uk/,,unclear,,2026-08-17,,"small VC firm (2 employees), website found but no careers page located"
+PROMARKET INTERNATIONAL PLC,08251885,14.0,12-10-2012,"Unit 3,  Office A,  1st Floor London England EC3R 8EE",checked,,,no,,2026-08-17,,"dormant/non-active company, no website found"
+SAGE & HERMES LIMITED,02958215,14.0,12-08-1994,44 Worthington Road Surrey KT6 7RX,checked,https://www.sageandhermes.com/,,no,,2026-08-17,,"research/publishing house for fund mgmt industry, not itself a fund manager"
+BOSTON INVESTMENT MANAGEMENT GROUP LIMITED,01007782,14.0,14-04-1971,Wildwoods Beaconsfield HP9 2NR,checked,,,no,,2026-08-17,,No dedicated careers page found for Boston Investment Management Group
+QUANTUM ENGINEERING CONSULTANCY LTD,07172848,14.0,01-03-2010,33a Norfolk Street Sunderland SR1 1EE,checked,,,unclear,,2026-08-17,,no website found; multiple similarly-named firms elsewhere confused search
+DUKE GODLEY FINANCIAL PLANNING LIMITED,02268794,14.0,17-06-1988,Congress House Harrow HA1 2EN,checked,https://dukegodley.co.uk,,no,,2026-08-17,,"small financial advisory firm, website found but no careers page"
+CAPITAL OIL LIMITED,05637488,14.0,28-11-2005,Office 1 Hatherton Court Walsall England WS4 2LA,checked,,,no,,2026-08-17,,"dormant/shell company, no genuine website found"
+SKYBOUND FINANCIAL PLANNING LIMITED,03116941,14.0,23-10-1995,Solent Business Park 4500 Parkway Fareham England PO15 7AZ,checked,https://skyboundfp.co.uk,,no,,2026-08-17,,"small IFA firm, website found but no dedicated careers page located"
+CONSULTIST LIMITED,04701671,14.0,18-03-2003,11 Middle Way Oxford England OX2 7LH,checked,,,unclear,,2026-08-17,,"no website found, only directory listing for management consultancy"
+PLATINUM PURE CAPITAL LIMITED,07028208,14.0,23-09-2009,236 Creighton Avenue London England N2 9BD,checked,,,unclear,,2026-08-17,,no website found; tiny fund management entity at residential address
+Z-VISIONS INNOVATIONS & PROJECT DEVELOPMENT LTD,08090382,14.0,31-05-2012,71-75 Shelton Street London United Kingdom WC2H 9JQ,checked,http://www.z-visions.com/,,no,,2026-08-17,,"one-person vision/venture capital enterprise, website found but no careers page"
+UNITED INTERCONSULTING LIMITED,08029256,14.0,13-04-2012,85 Great Portland Street London England W1W 7LT,checked,https://united-interconsulting.com,,no,,2026-08-17,,"small family-office/venture capital firm, website found but no careers page"
 AITI HOLDINGS LIMITED,03949333,14.0,16-03-2000,5th Floor 22 Eastcheap London England EC3M 1EU,pending,,,,,,,
-BUSINESS MONEYBOX (SERVICES) LTD,07167287,14.0,24-02-2010,117 Harlesden Road London England NW10 2BT,pending,,,,,,,
-FAIREY ASSOCIATES LIMITED,06535124,14.0,14-03-2008,Mayfield Farm Hungerdown Lane Colchester CO7 7LZ,pending,,,,,,,
-SAPIENTI LIMITED,07756538,13.5,30-08-2011,82a James Carter Road Officeserv Mildenhall England IP28 7DE,pending,,,,,,,
-BEAUCLERC ADVISORY SERVICES LIMITED,07759898,13.5,02-09-2011,20 North Audley Street London England W1K 6LX,pending,,,,,,,
-JAY CAPITAL LTD,08386976,13.5,04-02-2013,3rd Floor Suite London England W1B 3HH,pending,,,,,,,
-BEDROCK ASSET MANAGEMENT (UK) LTD,05171393,13.0,06-07-2004,33 Glasshouse Street London United Kingdom W1B 5DG,pending,,,,,,,
-MURRAY ROUND WEALTH MANAGEMENT LIMITED,04010289,13.0,08-06-2000,2 Claremont Bank Salop SY1 1RW,pending,,,,,,,
-CHANTERELLE UNDERWRITING LIMITED,03853053,13.0,29-09-1999,5th Floor 40 Gracechurch Street London England EC3V 0BT,pending,,,,,,,
-PARK FARM UNDERWRITING LIMITED,03848332,13.0,21-09-1999,5th Floor 40 Gracechurch Street London England EC3V 0BT,pending,,,,,,,
+BUSINESS MONEYBOX (SERVICES) LTD,07167287,14.0,24-02-2010,117 Harlesden Road London England NW10 2BT,checked,,,unclear,,2026-08-17,,Small firm; not the Moneybox fintech app; no website found
+FAIREY ASSOCIATES LIMITED,06535124,14.0,14-03-2008,Mayfield Farm Hungerdown Lane Colchester CO7 7LZ,checked,https://faireyassociates.co.uk/,,no,,2026-08-17,,"Small independent financial advisers firm, no careers page found"
+SAPIENTI LIMITED,07756538,13.5,30-08-2011,82a James Carter Road Officeserv Mildenhall England IP28 7DE,checked,,,unclear,,2026-08-17,,No website found matching this entity
+BEAUCLERC ADVISORY SERVICES LIMITED,07759898,13.5,02-09-2011,20 North Audley Street London England W1K 6LX,checked,https://beauclerc.com/,,no,,2026-08-17,,"Niche family-office asset manager, no careers page identified"
+JAY CAPITAL LTD,08386976,13.5,04-02-2013,3rd Floor Suite London England W1B 3HH,checked,,,unclear,,2026-08-17,,tiny 1-employee firm; domain resolves to webmail login only
+BEDROCK ASSET MANAGEMENT (UK) LTD,05171393,13.0,06-07-2004,33 Glasshouse Street London United Kingdom W1B 5DG,checked,https://www.bedrockgroup.com/,,no,,2026-08-17,,Multi-family office (Bedrock Group); job boards show 0 current London openings
+MURRAY ROUND WEALTH MANAGEMENT LIMITED,04010289,13.0,08-06-2000,2 Claremont Bank Salop SY1 1RW,checked,http://www.murrayround.co.uk,,no,,2026-08-17,,"Small local IFA firm (single adviser, Shrewsbury), no careers page"
+CHANTERELLE UNDERWRITING LIMITED,03853053,13.0,29-09-1999,5th Floor 40 Gracechurch Street London England EC3V 0BT,checked,,,no,,2026-08-17,,Lloyd's Names' underwriting vehicle (LLV) at shared address; no independent website/staff
+PARK FARM UNDERWRITING LIMITED,03848332,13.0,21-09-1999,5th Floor 40 Gracechurch Street London England EC3V 0BT,checked,,,no,,2026-08-17,,"Lloyd's LLV underwriting vehicle, no independent website/staff"
 IAM INVEST LTD,04007950,13.0,05-06-2000,4 Hill Street null W1J 5NE,pending,,,,,,,
 WELLINGTON MANAGEMENT INTERNATIONAL LIMITED,04283513,13.0,07-09-2001,Cardinal Place London SW1E 5JL,pending,,,,,,,
 BLACKROCK ADVISORS (UK) LIMITED,00796793,13.0,18-03-1964,12 Throgmorton Avenue London EC2N 2DL,pending,,,,,,,
